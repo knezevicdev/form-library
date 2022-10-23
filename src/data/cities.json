@@ -1,0 +1,2512 @@
+{
+  "Eisenstadt": [
+    {
+      "code": "000001",
+      "name": "Josef Stanislaus Albach-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000003",
+      "name": "Am Bahndamm",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000008",
+      "name": "Römerweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000010",
+      "name": "Sankt-Antoni-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000011",
+      "name": "Augartenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000013",
+      "name": "Axerweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000015",
+      "name": "Bahnhofsplatz",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000017",
+      "name": "Bahnstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000018",
+      "name": "Bankgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000019",
+      "name": "Beethovenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000020",
+      "name": "Beim Alten Stadttor",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000022",
+      "name": "Bergstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000023",
+      "name": "Eisbachstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000024",
+      "name": "Blumengasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000025",
+      "name": "Bründlfeldweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000027",
+      "name": "Buchgrabenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000028",
+      "name": "Bürgerspitalgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000030",
+      "name": "Burgstallgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000031",
+      "name": "Martino Carlone-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000032",
+      "name": "Dr. Robert Davy-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000033",
+      "name": "Stefan Dorffmeister-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000034",
+      "name": "Dr. Ludwig Leser-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000035",
+      "name": "Dreifaltigkeitsstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000037",
+      "name": "Franz Elek Eiweck-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000038",
+      "name": "Fanny Elßler-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000039",
+      "name": "Esterhazyplatz",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000040",
+      "name": "Esterhazystraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000041",
+      "name": "Angelika Fajt-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000042",
+      "name": "Fasangasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000044",
+      "name": "Florianigasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000045",
+      "name": "Föhrenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000047",
+      "name": "Johann Nepomuk-Fuchs-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000048",
+      "name": "Gartengasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000053",
+      "name": "Glorietteallee",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000054",
+      "name": "Gölbeszeile",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000055",
+      "name": "Grabengassl",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000056",
+      "name": "Grenadierplatzl",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000057",
+      "name": "Simon Gruber-Weg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000058",
+      "name": "Hartlsteig",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000059",
+      "name": "Hauptstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000061",
+      "name": "Joseph Haydn-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000062",
+      "name": "Henri Dunant-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000063",
+      "name": "Höblinggasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000065",
+      "name": "Hoher Nußbaumweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000066",
+      "name": "Hotterweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000067",
+      "name": "Hummelbühel",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000068",
+      "name": "Hutweidegasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000069",
+      "name": "Josef Hyrtl-Platz",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000071",
+      "name": "Industriestraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000072",
+      "name": "Jägergasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000073",
+      "name": "Josef Joachim-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000074",
+      "name": "Kaiserallee",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000075",
+      "name": "Kalvarienbergplatz",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000076",
+      "name": "Dr. Lorenz Karall-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000077",
+      "name": "Kasernenstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000079",
+      "name": "Kernausteig",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000080",
+      "name": "Kirchäckergasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000082",
+      "name": "Kirchengasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000087",
+      "name": "Wolfgang Köpp-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000089",
+      "name": "Albert Kollmann-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000090",
+      "name": "Krautgartenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000091",
+      "name": "Johann Kravogl-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000092",
+      "name": "Leopold Kunschak-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000093",
+      "name": "Kurzwiesenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000094",
+      "name": "Lahmäckerstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000095",
+      "name": "Landesgerichtsstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000097",
+      "name": "Langriedgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000098",
+      "name": "Langsatzweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000099",
+      "name": "Laschoberstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000100",
+      "name": "Leithabergstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000103",
+      "name": "Franz Liszt-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000104",
+      "name": "Lobzeile",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000106",
+      "name": "Matthias Marckhl-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000109",
+      "name": "Mattersburger Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000110",
+      "name": "Mautweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000111",
+      "name": "Michael Mayr-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000113",
+      "name": "Meierhofgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000114",
+      "name": "Carl Moreau-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000116",
+      "name": "Museumgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000117",
+      "name": "Robert Musil-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000118",
+      "name": "Neuriedgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000119",
+      "name": "Neusiedler Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000120",
+      "name": "Felix Niering-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000122",
+      "name": "Nikolaus Lenau-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000123",
+      "name": "Ödenburgerstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000124",
+      "name": "Ostergassl",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000125",
+      "name": "Osterwiese",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000126",
+      "name": "Johann Permayer-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000127",
+      "name": "Pfarrgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000128",
+      "name": "Propstengasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000130",
+      "name": "Ing. Julius Raab-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000131",
+      "name": "Friedrich Wilhelm Raiffeisen-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000132",
+      "name": "Josef Reichl-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000135",
+      "name": "Dr. Karl Renner-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000136",
+      "name": "Sankt-Rochus-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000139",
+      "name": "Rosentalweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000140",
+      "name": "Ruster Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000147",
+      "name": "Schloßgarten",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000151",
+      "name": "Franz Schubert-Platz",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000153",
+      "name": "Ignaz Philipp Semmelweis-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000154",
+      "name": "Hans Siebenhirter-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000155",
+      "name": "Siegendorfer Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000157",
+      "name": "Georgistraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000162",
+      "name": "Josef Stössel-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000164",
+      "name": "Ing. Hans Sylvester-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000166",
+      "name": "Ignaz Till-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000168",
+      "name": "Alois Tomasini-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000169",
+      "name": "Unterbergstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000170",
+      "name": "Karl Varits-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000171",
+      "name": "Vicedom",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000172",
+      "name": "Viehtrift",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000174",
+      "name": "Waldhofweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000175",
+      "name": "Waldweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000176",
+      "name": "Waschstattgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000179",
+      "name": "Weingartenstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000180",
+      "name": "Johann Weißpriach-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000181",
+      "name": "Karl Auer von Welsbach-Weg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000182",
+      "name": "Franz Werfel-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000183",
+      "name": "Gregor Josef Werner-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000184",
+      "name": "Wertheimergasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000185",
+      "name": "Wiener Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000186",
+      "name": "Alexander Wolf-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000187",
+      "name": "Wormser Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000188",
+      "name": "Ziegelofengasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "013980",
+      "name": "Pröstlweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "046139",
+      "name": "Feiersteigweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "046152",
+      "name": "Michael Urient-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "046162",
+      "name": "Franz Storno-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "046163",
+      "name": "Wolfgarten",
+      "zipCode": "7000"
+    },
+    {
+      "code": "046575",
+      "name": "Rudolf Klafsky-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "051096",
+      "name": "Domplatz",
+      "zipCode": "7000"
+    },
+    {
+      "code": "051097",
+      "name": "Feldstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "052954",
+      "name": "Bad Kissingen-Platz",
+      "zipCode": "7000"
+    },
+    {
+      "code": "060067",
+      "name": "Klosterriedgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "062477",
+      "name": "Joseph Roth-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "064390",
+      "name": "Rosental",
+      "zipCode": "7000"
+    },
+    {
+      "code": "064392",
+      "name": "Rosentalried",
+      "zipCode": "7000"
+    },
+    {
+      "code": "064394",
+      "name": "Hartl-Lucke",
+      "zipCode": "7000"
+    },
+    {
+      "code": "064396",
+      "name": "Hasenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "064399",
+      "name": "Hans Tinhof-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "064400",
+      "name": "Lobäckerstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "066817",
+      "name": "Colmarplatz",
+      "zipCode": "7000"
+    },
+    {
+      "code": "067263",
+      "name": "Joseph Haydn-Platz",
+      "zipCode": "7000"
+    },
+    {
+      "code": "067264",
+      "name": "Rudolf Perthen-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "067265",
+      "name": "Aubachweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "067267",
+      "name": "Gewerbestraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "072370",
+      "name": "Orangeriegasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "072371",
+      "name": "Keltenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "074336",
+      "name": "Prälat Gangl-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "075134",
+      "name": "Parkstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "075138",
+      "name": "Obeliskgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "091577",
+      "name": "Ignaz Nuß-Weg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "091721",
+      "name": "Robert Graf-Platz",
+      "zipCode": "7000"
+    },
+    {
+      "code": "093006",
+      "name": "Marktstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "093770",
+      "name": "Akazienweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "093771",
+      "name": "Tempelgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "093772",
+      "name": "Stadiongasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "094474",
+      "name": "Europaplatz",
+      "zipCode": "7000"
+    },
+    {
+      "code": "094495",
+      "name": "Nokia Weg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "096360",
+      "name": "Handelsstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "096932",
+      "name": "Betriebsstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "097079",
+      "name": "Jerusalemplatz",
+      "zipCode": "7000"
+    },
+    {
+      "code": "097081",
+      "name": "Matthias-Pöltl-Weg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "100147",
+      "name": "Eisgrubenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "100836",
+      "name": "Thomas-Alva-Edison-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "100933",
+      "name": "Lionsplatz",
+      "zipCode": "7000"
+    },
+    {
+      "code": "102104",
+      "name": "Muskatweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "107157",
+      "name": "Josef Knotzer-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "107695",
+      "name": "Viktor-Kaplan-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "109618",
+      "name": "Campus",
+      "zipCode": "7000"
+    },
+    {
+      "code": "111954",
+      "name": "Jacob Rauschenfels-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "112826",
+      "name": "Paul Koller-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "113561",
+      "name": "Johann Sebastian Bach-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "114328",
+      "name": "Ötvösgarten",
+      "zipCode": "7000"
+    },
+    {
+      "code": "114657",
+      "name": "Leopoldinenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "119346",
+      "name": "Ing. Alois Schwarz-Platz",
+      "zipCode": "7000"
+    },
+    {
+      "code": "119595",
+      "name": "Fliederstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "121995",
+      "name": "Holundergasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "122002",
+      "name": "Bischof Stefan Laszlo-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "122213",
+      "name": "Emma und Berta Kiraly-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "122475",
+      "name": "Blütenstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "125019",
+      "name": "Johannes von Gott-Platz",
+      "zipCode": "7000"
+    },
+    {
+      "code": "125117",
+      "name": "Franz Soronics-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "125594",
+      "name": "Zielgerade",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000002",
+      "name": "Untere Kirchberggasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000013",
+      "name": "Axerweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000023",
+      "name": "Eisbachstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000025",
+      "name": "Bründlfeldweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000036",
+      "name": "Dreifaltigkeitsweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000064",
+      "name": "Hofgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000066",
+      "name": "Hotterweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000081",
+      "name": "Kirchberggasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000084",
+      "name": "Kleinhöfleiner Hauptstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000086",
+      "name": "Johann Kodatsch-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000096",
+      "name": "Langaugasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000105",
+      "name": "Magdalenensiedlung",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000107",
+      "name": "Dr. Josef Marschall-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000109",
+      "name": "Mattersburger Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000134",
+      "name": "Reitschulgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000144",
+      "name": "Satzriedgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000150",
+      "name": "Rebenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000158",
+      "name": "Sankt-Vitus-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000161",
+      "name": "Steinbruchsiedlung",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000165",
+      "name": "Teichgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000167",
+      "name": "Tomandlsiedlung",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000178",
+      "name": "Weinberggasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000179",
+      "name": "Weingartenstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000185",
+      "name": "Wiener Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "011252",
+      "name": "Josef Lentsch-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "013980",
+      "name": "Pröstlweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "048037",
+      "name": "Langreuterstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "060067",
+      "name": "Klosterriedgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "064398",
+      "name": "Axerried",
+      "zipCode": "7000"
+    },
+    {
+      "code": "067268",
+      "name": "Rudolf von Eichthal-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "067269",
+      "name": "Kirchtalstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "068272",
+      "name": "Winzerweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "070702",
+      "name": "Kleinhöfleiner Streusiedlung",
+      "zipCode": "7000"
+    },
+    {
+      "code": "070703",
+      "name": "Tomandlried",
+      "zipCode": "7000"
+    },
+    {
+      "code": "096930",
+      "name": "Krapflried",
+      "zipCode": "7000"
+    },
+    {
+      "code": "096938",
+      "name": "Mitterjochweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "099907",
+      "name": "Hirterberggasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "100146",
+      "name": "Johann Breitkopf-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "100147",
+      "name": "Eisgrubenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "102104",
+      "name": "Muskatweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "104540",
+      "name": "Invaris-Center",
+      "zipCode": "7000"
+    },
+    {
+      "code": "108745",
+      "name": "Katersteinstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "112244",
+      "name": "Wiesenstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "118012",
+      "name": "Kornblumenstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "125118",
+      "name": "Adalbert Riedl-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "125854",
+      "name": "Elise Beisteiner-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000004",
+      "name": "Am Graben",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000005",
+      "name": "Am Platzl",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000006",
+      "name": "Redlriedweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000007",
+      "name": "Angergasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000012",
+      "name": "Aumüllnerweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000026",
+      "name": "Brunnengasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000035",
+      "name": "Dreifaltigkeitsstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000077",
+      "name": "Kasernenstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000078",
+      "name": "Kellerberg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000083",
+      "name": "Kirchenplatz",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000088",
+      "name": "Koglweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000115",
+      "name": "Mühlangergasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000119",
+      "name": "Neusiedler Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000129",
+      "name": "Querstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000133",
+      "name": "Präsident Reil-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000137",
+      "name": "Rohrgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000141",
+      "name": "Sätzenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000142",
+      "name": "Sandgrubweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000143",
+      "name": "Satzlweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000145",
+      "name": "Schanzstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000152",
+      "name": "Schulgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000157",
+      "name": "Georgistraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000159",
+      "name": "Sankt Georgener Hauptstraße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "000163",
+      "name": "Sankt Georgener Streusiedlung",
+      "zipCode": "7000"
+    },
+    {
+      "code": "051098",
+      "name": "Gustinus Ambrosi-Weg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "051099",
+      "name": "Johann Nepomuk Hummel-Weg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "051101",
+      "name": "Scheibenbergweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "052955",
+      "name": "Dr. Isidor Pap-Straße",
+      "zipCode": "7000"
+    },
+    {
+      "code": "052956",
+      "name": "Klausenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "062889",
+      "name": "Artteilweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "067266",
+      "name": "Corvinusweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "071881",
+      "name": "Xaveriweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "072372",
+      "name": "Birkenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "075135",
+      "name": "Buchenhain",
+      "zipCode": "7000"
+    },
+    {
+      "code": "075136",
+      "name": "Theobald Collin-Weg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "075137",
+      "name": "Gutkeledweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "091575",
+      "name": "Pfarrwiese",
+      "zipCode": "7000"
+    },
+    {
+      "code": "091576",
+      "name": "Sonnenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "093258",
+      "name": "Villaweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "093770",
+      "name": "Akazienweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "095133",
+      "name": "Lindenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "096361",
+      "name": "Hunnenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "096415",
+      "name": "Erlenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "096416",
+      "name": "Ahorngasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "096935",
+      "name": "Kanizsaiweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "097076",
+      "name": "Awarenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "097082",
+      "name": "Satzweingärten",
+      "zipCode": "7000"
+    },
+    {
+      "code": "099908",
+      "name": "Eschenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "099909",
+      "name": "Artteilried",
+      "zipCode": "7000"
+    },
+    {
+      "code": "103208",
+      "name": "Ulmenweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "116828",
+      "name": "Kajetan-Gasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "119582",
+      "name": "Sebastianiweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "125487",
+      "name": "Uranusweg",
+      "zipCode": "7000"
+    },
+    {
+      "code": "125488",
+      "name": "Mondgasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "125489",
+      "name": "Sterngasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "125490",
+      "name": "Saturngasse",
+      "zipCode": "7000"
+    },
+    {
+      "code": "125491",
+      "name": "Jupitergasse",
+      "zipCode": "7000"
+    }
+  ],
+  "Rust": [
+    {
+      "code": "000190",
+      "name": "Am Hafen",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000191",
+      "name": "Kulmbachstraße",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000192",
+      "name": "Am Seekanal",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000193",
+      "name": "Am Sportplatz",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000194",
+      "name": "Arbeitergasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000195",
+      "name": "Ruster Bucht Badehütten",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000197",
+      "name": "Baumgartengasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000199",
+      "name": "Ruster Bucht",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000200",
+      "name": "Conradplatz",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000201",
+      "name": "Dorfmeistergasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000203",
+      "name": "Eisenstädterstraße",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000204",
+      "name": "Feldgasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000205",
+      "name": "Fischergasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000206",
+      "name": "Franz Josefs-Platz",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000207",
+      "name": "Johann von Gabrielgasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000208",
+      "name": "Gartengasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000209",
+      "name": "Greinergasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000212",
+      "name": "Hauptstraße",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000213",
+      "name": "Joseph Haydngasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000215",
+      "name": "Heidegasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000216",
+      "name": "Kirchengasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000220",
+      "name": "Kurzegasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000221",
+      "name": "Lenaugasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000222",
+      "name": "Lindengasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000223",
+      "name": "Lisztgasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000224",
+      "name": "Martingasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000225",
+      "name": "Maulbeerwiese",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000226",
+      "name": "Mittergasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000227",
+      "name": "Mörbischerstraße",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000228",
+      "name": "Leopold Nattlgasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000229",
+      "name": "Neuegasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000230",
+      "name": "Ödenburgerstraße",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000232",
+      "name": "Oggauerstraße",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000233",
+      "name": "Pappelallee",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000235",
+      "name": "Raiffeisenstraße",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000236",
+      "name": "Rathausplatz",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000237",
+      "name": "Dr. Alfred Ratzgasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000239",
+      "name": "Reiherweg",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000241",
+      "name": "Schilfgasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000242",
+      "name": "Schubertgasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000245",
+      "name": "Ruster Bucht Campingplatz",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000246",
+      "name": "Ruster Bucht Romantika I",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000247",
+      "name": "Ruster Bucht Romantika II",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000250",
+      "name": "Seezeile",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000251",
+      "name": "Setzgasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000252",
+      "name": "Siedlungsgasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000254",
+      "name": "Sankt Ägidigasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000256",
+      "name": "Stadtwassergasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000257",
+      "name": "Franz Storno Gasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000258",
+      "name": "Teichweg",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000259",
+      "name": "Turnerweg",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000260",
+      "name": "Weidegasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000261",
+      "name": "Weinberggasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000262",
+      "name": "Windmühlberggasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "000263",
+      "name": "Zum Alten Stadttor",
+      "zipCode": "7071"
+    },
+    {
+      "code": "046140",
+      "name": "Friedhofpark",
+      "zipCode": "7071"
+    },
+    {
+      "code": "046143",
+      "name": "Seestraße",
+      "zipCode": "7071"
+    },
+    {
+      "code": "063932",
+      "name": "Leopoldstraße",
+      "zipCode": "7071"
+    },
+    {
+      "code": "063933",
+      "name": "Rebengasse",
+      "zipCode": "7071"
+    },
+    {
+      "code": "067261",
+      "name": "Mandelbaumweg",
+      "zipCode": "7071"
+    },
+    {
+      "code": "067262",
+      "name": "Uferstraße",
+      "zipCode": "7071"
+    },
+    {
+      "code": "091908",
+      "name": "Dr. Ernst Franz-Straße",
+      "zipCode": "7071"
+    },
+    {
+      "code": "091909",
+      "name": "Zimmererweg",
+      "zipCode": "7071"
+    },
+    {
+      "code": "096474",
+      "name": "Horst Uhlemann-Straße",
+      "zipCode": "7071"
+    },
+    {
+      "code": "097100",
+      "name": "Vogelsangweg",
+      "zipCode": "7071"
+    },
+    {
+      "code": "107723",
+      "name": "Am Storchengrund",
+      "zipCode": "7071"
+    },
+    {
+      "code": "114631",
+      "name": "Tokajer Straße",
+      "zipCode": "7071"
+    },
+    {
+      "code": "122819",
+      "name": "Am Sonnenpark",
+      "zipCode": "7071"
+    }
+  ],
+  "Breitenbrunn am Neusiedler See": [
+    {
+      "code": "000264",
+      "name": "Am Anger",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000266",
+      "name": "Antonigasse",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000270",
+      "name": "Bahnstraße",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000271",
+      "name": "Bruckergasse",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000275",
+      "name": "Eisenstädterstraße",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000276",
+      "name": "Florianisiedlung",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000277",
+      "name": "Gartengasse",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000279",
+      "name": "Hauptplatz",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000281",
+      "name": "Josef Haydngasse",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000282",
+      "name": "Heideweg",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000283",
+      "name": "Josef Hyrtlgasse",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000285",
+      "name": "Kellerring",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000286",
+      "name": "Kirchengasse",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000288",
+      "name": "Krautgartenweg",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000289",
+      "name": "Kreinerweg",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000290",
+      "name": "Neubaugasse",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000292",
+      "name": "Prangerstraße",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000293",
+      "name": "Pusztawohnpark",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000294",
+      "name": "Spitalanger",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000295",
+      "name": "Russostraße",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000297",
+      "name": "Seebad Breitenbrunn am Neusiedler See",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000300",
+      "name": "Seestraße",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000301",
+      "name": "Spitalgasse",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000304",
+      "name": "Villasteig",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000305",
+      "name": "Waldstraße",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000307",
+      "name": "Weinberggasse",
+      "zipCode": "7091"
+    },
+    {
+      "code": "000311",
+      "name": "Zum Seeblick",
+      "zipCode": "7091"
+    },
+    {
+      "code": "061797",
+      "name": "Gottfried Kumpfgasse",
+      "zipCode": "7091"
+    },
+    {
+      "code": "063937",
+      "name": "Am Haidenberg",
+      "zipCode": "7091"
+    },
+    {
+      "code": "063938",
+      "name": "Scheibenackerweg",
+      "zipCode": "7091"
+    },
+    {
+      "code": "063940",
+      "name": "Ried Rosenberg",
+      "zipCode": "7091"
+    },
+    {
+      "code": "067238",
+      "name": "Kirchberg",
+      "zipCode": "7091"
+    },
+    {
+      "code": "067239",
+      "name": "Martingasse",
+      "zipCode": "7091"
+    },
+    {
+      "code": "070670",
+      "name": "Kirchenried",
+      "zipCode": "7091"
+    },
+    {
+      "code": "070671",
+      "name": "Heinrich Bechtstraße",
+      "zipCode": "7091"
+    },
+    {
+      "code": "070672",
+      "name": "Lisztgasse",
+      "zipCode": "7091"
+    },
+    {
+      "code": "070673",
+      "name": "Urbaniweg",
+      "zipCode": "7091"
+    },
+    {
+      "code": "096468",
+      "name": "Franz Schellstraße",
+      "zipCode": "7091"
+    },
+    {
+      "code": "100044",
+      "name": "Am Sportplatz",
+      "zipCode": "7091"
+    },
+    {
+      "code": "103368",
+      "name": "Mobilheimplatz",
+      "zipCode": "7091"
+    },
+    {
+      "code": "114750",
+      "name": "Breitenbrunn",
+      "zipCode": "7091"
+    },
+    {
+      "code": "116419",
+      "name": "Ried Krautgarten",
+      "zipCode": "7091"
+    },
+    {
+      "code": "123793",
+      "name": "An der Türkenschanze",
+      "zipCode": "7091"
+    }
+  ],
+  "Donnerskirchen": [
+    {
+      "code": "000312",
+      "name": "Oberer Kreutberg",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000314",
+      "name": "Am Madberg",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000316",
+      "name": "Angergasse",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000318",
+      "name": "Hofsatz",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000319",
+      "name": "Bahnstraße",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000321",
+      "name": "Bergstraße",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000322",
+      "name": "Eisenstädter Straße",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000323",
+      "name": "Florianigasse",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000324",
+      "name": "Hauptstraße",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000325",
+      "name": "Dr. Hubergasse",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000326",
+      "name": "Johannesstraße",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000327",
+      "name": "Kirchengasse",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000328",
+      "name": "Kirchberg",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000329",
+      "name": "Neusiedler Straße",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000330",
+      "name": "Quergasse",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000331",
+      "name": "Satzgasse",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000332",
+      "name": "Schulgasse",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000333",
+      "name": "Seehof",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000335",
+      "name": "Waldgasse",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000336",
+      "name": "Weingartenweg",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000337",
+      "name": "Wiener Straße",
+      "zipCode": "7082"
+    },
+    {
+      "code": "000338",
+      "name": "Badstraße",
+      "zipCode": "7082"
+    },
+    {
+      "code": "046041",
+      "name": "Kreuzweingärten",
+      "zipCode": "7082"
+    },
+    {
+      "code": "054005",
+      "name": "Unterer Kreutberg",
+      "zipCode": "7082"
+    },
+    {
+      "code": "058907",
+      "name": "Wolfsbachweg",
+      "zipCode": "7082"
+    },
+    {
+      "code": "063941",
+      "name": "Industriegelände",
+      "zipCode": "7082"
+    },
+    {
+      "code": "063942",
+      "name": "Martinsgasse",
+      "zipCode": "7082"
+    },
+    {
+      "code": "063943",
+      "name": "Zeisel Neuriß",
+      "zipCode": "7082"
+    },
+    {
+      "code": "063944",
+      "name": "Am Weinberg",
+      "zipCode": "7082"
+    },
+    {
+      "code": "063945",
+      "name": "Terrassenwohnpark",
+      "zipCode": "7082"
+    },
+    {
+      "code": "063946",
+      "name": "Am Golfplatz",
+      "zipCode": "7082"
+    },
+    {
+      "code": "064948",
+      "name": "Keltenweg",
+      "zipCode": "7082"
+    },
+    {
+      "code": "067242",
+      "name": "Mobilheimplatz",
+      "zipCode": "7082"
+    },
+    {
+      "code": "100046",
+      "name": "Robert Michlits-Straße",
+      "zipCode": "7082"
+    },
+    {
+      "code": "103207",
+      "name": "Blumengasse",
+      "zipCode": "7082"
+    },
+    {
+      "code": "103327",
+      "name": "Am Bahnhof",
+      "zipCode": "7082"
+    },
+    {
+      "code": "103328",
+      "name": "Bachzeile",
+      "zipCode": "7082"
+    },
+    {
+      "code": "103329",
+      "name": "Ernst Summer-Straße",
+      "zipCode": "7082"
+    },
+    {
+      "code": "103330",
+      "name": "Römerweg",
+      "zipCode": "7082"
+    },
+    {
+      "code": "103331",
+      "name": "Seeblick",
+      "zipCode": "7082"
+    },
+    {
+      "code": "103332",
+      "name": "Triftgasse",
+      "zipCode": "7082"
+    },
+    {
+      "code": "103348",
+      "name": "Campingplatz",
+      "zipCode": "7082"
+    },
+    {
+      "code": "112175",
+      "name": "Am Seeblick",
+      "zipCode": "7082"
+    },
+    {
+      "code": "115489",
+      "name": "Grünland-Donnerskirchen",
+      "zipCode": "7082"
+    },
+    {
+      "code": "127053",
+      "name": "Stadlgasse",
+      "zipCode": "7082"
+    }
+  ],
+  "Großhöflein": [
+    {
+      "code": "000340",
+      "name": "Antoniplatz",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000341",
+      "name": "Arbeitergasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000342",
+      "name": "Bartsplatzl",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000343",
+      "name": "Berggasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000344",
+      "name": "Blumengasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000345",
+      "name": "Brunnengasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000346",
+      "name": "Dammgasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000347",
+      "name": "Edelhof",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000348",
+      "name": "Edelhofgasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000349",
+      "name": "Eichengasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000350",
+      "name": "Eisenstädter Straße",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000351",
+      "name": "Florianigasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000352",
+      "name": "Föhrengasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000353",
+      "name": "Gartengasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000354",
+      "name": "Hauptstraße",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000355",
+      "name": "Haydngasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000356",
+      "name": "Hofwiese",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000357",
+      "name": "Kirchengasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000358",
+      "name": "Kirchenplatz",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000359",
+      "name": "Koglgasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000360",
+      "name": "Lenaugasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000361",
+      "name": "Lindengasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000362",
+      "name": "Franz-Liszt-Gasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000363",
+      "name": "Magdalenenweg",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000364",
+      "name": "Meistergasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000365",
+      "name": "Neubaugasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000366",
+      "name": "Ödenburger Straße",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000367",
+      "name": "Radegundisgasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000368",
+      "name": "Raiffeisenplatz",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000369",
+      "name": "Rosengasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000370",
+      "name": "Schulgasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000371",
+      "name": "Fasangasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000372",
+      "name": "Steingasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000373",
+      "name": "Rechte Steinzeile",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000374",
+      "name": "Linke Steinzeile",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000375",
+      "name": "Triftgasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000376",
+      "name": "Waldgasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000377",
+      "name": "Weinberggasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "000378",
+      "name": "Wiener Straße",
+      "zipCode": "7051"
+    },
+    {
+      "code": "044552",
+      "name": "Hotterweg",
+      "zipCode": "7051"
+    },
+    {
+      "code": "046040",
+      "name": "Am Föllig",
+      "zipCode": "7051"
+    },
+    {
+      "code": "046042",
+      "name": "Meierhof",
+      "zipCode": "7051"
+    },
+    {
+      "code": "054615",
+      "name": "Eisbachgasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "063862",
+      "name": "Steinbruchweg",
+      "zipCode": "7051"
+    },
+    {
+      "code": "063947",
+      "name": "Steinweg",
+      "zipCode": "7051"
+    },
+    {
+      "code": "067243",
+      "name": "Wiesengasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "068817",
+      "name": "Birkenweg",
+      "zipCode": "7051"
+    },
+    {
+      "code": "075139",
+      "name": "Am Reisbühl",
+      "zipCode": "7051"
+    },
+    {
+      "code": "091579",
+      "name": "Leithaberggasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "096263",
+      "name": "Am Holzbrunn",
+      "zipCode": "7051"
+    },
+    {
+      "code": "106314",
+      "name": "Industriestraße",
+      "zipCode": "7051"
+    },
+    {
+      "code": "111642",
+      "name": "Johannesweg",
+      "zipCode": "7051"
+    },
+    {
+      "code": "114920",
+      "name": "Großhöflein",
+      "zipCode": "7051"
+    },
+    {
+      "code": "122569",
+      "name": "Satzgasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "126088",
+      "name": "Kurze Gasse",
+      "zipCode": "7051"
+    },
+    {
+      "code": "126980",
+      "name": "Sonnenweg",
+      "zipCode": "7051"
+    },
+    {
+      "code": "127336",
+      "name": "Mandelweg",
+      "zipCode": "7051"
+    }
+  ]
+}
