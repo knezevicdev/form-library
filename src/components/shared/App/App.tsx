@@ -46,7 +46,7 @@ const App = () => {
         <Field
           as={AddressInput}
           inputProps={{
-            city: 'Eisenstada',
+            city: 'Eisenstadt',
             placeholder: 'Street',
           }}
           name="address"

@@ -1,25 +1,25 @@
-import { ChangeEvent, ElementType, ReactNode } from 'react';
+import { ChangeEvent, ComponentType, ReactNode } from 'react';
 import { FormGroup, Label } from 'reactstrap';
 import { useField } from './Form';
 
-type Props = {
-  as: ElementType;
-  inputProps: Record<string, unknown>;
+type Props<InputProps> = {
+  as: ComponentType<InputProps>;
+  inputProps: Omit<InputProps, 'onChange' | 'value' | 'name'>;
   children?: ReactNode;
   name: string;
   label?: string;
 };
 
-const Field = ({
+const Field = <InputProps,>({
   as: Component,
-  inputProps: { ...inputProps },
+  inputProps,
   children,
   name,
   label,
-}: Props) => {
+}: Props<InputProps>) => {
   const [value, setValue] = useField(name);
   const onChange = (
-    eventOrValue: string | ChangeEvent<HTMLInputElement | HTMLSelectElement>
+    eventOrValue: string | ChangeEvent<HTMLInputElement> | ChangeEvent<HTMLSelectElement>
   ) => {
     if (typeof eventOrValue === 'string') {
       setValue(eventOrValue);
@@ -29,12 +29,17 @@ const Field = ({
     setValue(eventOrValue.target.value);
   };
 
+  const newProps = {
+    ...inputProps,
+    onChange,
+    value,
+    name,
+  } as InputProps;
+
   return (
     <FormGroup className="mb-3">
       {label && <Label>{label}</Label>}
-      <Component onChange={onChange} value={value} name={name} {...inputProps}>
-        {children}
-      </Component>
+      <Component {...newProps}>{children}</Component>
     </FormGroup>
   );
 };

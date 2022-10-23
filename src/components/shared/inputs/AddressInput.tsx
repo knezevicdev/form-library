@@ -1,26 +1,31 @@
-import { useEffect, useState, useRef } from 'react';
+import { useEffect, useState, useRef, FC, ComponentProps } from 'react';
 import { Typeahead } from 'react-bootstrap-typeahead';
 import cities from '../../../data/cities.json';
 
-const getCityStreets = (cityName: string) => {
-  return (cities as any)[cityName] || [];
+type Street = typeof cities[keyof typeof cities][number];
+
+const getCityStreets = (cityName: keyof typeof cities) => {
+  return cities[cityName] || [];
 };
 
-const getStreetValueByLabel = (streets: any[], label: string) => {
+const getStreetValueByLabel = (streets: Street[], label: string) => {
   const street = streets.find((street) => street.name === label);
   if (!street) return [];
 
   return [street];
 };
 
-type Props = {
-  city: string;
+type Props = Omit<
+  ComponentProps<typeof Typeahead>,
+  'options' | 'defaultSelected' | 'selected' | 'onChange'
+> & {
+  city: keyof typeof cities;
   value: string;
   name: string;
   onChange?: (value: string) => void;
 };
-const AddressInput = ({ city, value, name, onChange, ...props }: Props) => {
-  const [streets, setStreets] = useState(getCityStreets(city));
+const AddressInput: FC<Props> = ({ city, value, name, onChange, ...props }: Props) => {
+  const [streets, setStreets] = useState<Street[]>(getCityStreets(city));
   const defaultSelectedStreet = useRef(getStreetValueByLabel(streets, value));
   const thRef = useRef(null);
 
